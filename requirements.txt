@@ -1,0 +1,14 @@
+Numpy==1.19.2
+Pandas==1.1.3
+Requests==2.25.1
+Seaborn==0.11.1
+Flask==1.1.2
+Matplotlib==3.3.2
+Scikit_learn==0.23.2
+Gunicorn==20.0.4
+Itsdangerous==1.1.0
+Jinja2==2.11.2
+Markupsafe==1.1.1
+Werkzeug==1.0.1
+Scipy==1.5.2
+Joblib==1.0.0
